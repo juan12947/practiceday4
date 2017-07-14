@@ -1,0 +1,52 @@
+/*height classes*/
+.xs-height {
+  height: 20px;
+  background-color: #000;
+}
+
+.sm-height {
+  height: 60px;
+  background-color: #000;
+}
+
+/*.md-height {
+  height: 180px;
+  background-color: #000;
+}*/
+
+.lg-height {
+  height: 540px;
+  background-color: #000;
+}
+
+.xl-height {
+  background-color: #000;
+  height: 500px;
+  margin-top: 50px;
+}
+
+.single-col-row {
+  margin-top: 60px;
+}
+
+.md-height {
+  height: 200px;
+  background-color: #000;
+  margin-top: 20px;
+}
+
+.row-4 {
+  height: 200px;
+  background-color: #000;
+  margin: 20px;
+
+}
+
+/*content styles*/
+#outer {
+  margin-top: 50px;
+}
+
+.horizontal-gap {
+  margin: 0 30px;
+}
